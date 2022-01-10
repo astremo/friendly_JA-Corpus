@@ -1,8 +1,17 @@
 # friendly_JA-Corpus
-friendly_JA is a parallel Japanese-to-Japanese corpus aimed at making Japanese easier by using the Latin/English derived katakana lexicon instead of the standard Sino-Japanese lexicon
+friendly_JA is a parallel Japanese-to-Japanese corpus aimed at making Japanese easier/more accessible to occidental people by using the Latin/English derived katakana lexicon instead of the standard Sino-Japanese lexicon
 
 
 
+
+
+
+
+
+
+
+
+# License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
