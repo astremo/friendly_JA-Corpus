@@ -7,6 +7,8 @@ replace Sino-Japanese vocabulary to Katakana words to the fullest extent possibl
 
 # Corpus Details
 
+|   |   |
+|---|---|
 | Version  | 1-4  |
 | Extension  | .tsv  |
 | Number of sentences  | 52694  |
