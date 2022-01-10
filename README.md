@@ -7,7 +7,7 @@ replace Sino-Japanese vocabulary to Katakana words to the fullest extent possibl
 
 # Corpus Details
 
- <span> |   
+| Corpus | friendly_JA|
 |---|---|
 | Version  | 1-4  |
 | Extension  | .tsv  |
