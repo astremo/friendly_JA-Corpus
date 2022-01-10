@@ -18,7 +18,7 @@ We collected sentences from a variety of sources, such as SNOW T15, T23 Corpus, 
 | Maximum number of characters in input sentences  | 81  |
 | Minimum number of characters in target sentences  | 4  |
 | Maximum number of characters in target sentences  | 97  |
-| Size  | 6.6MB  |
+| Size (on disk) | 6.6MB  |
 
 
 
