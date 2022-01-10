@@ -5,7 +5,7 @@ The friendly_JA Corpus is based on the Friendly Japanese concept which is a diff
 In fact, in Easy Japanese foreign words such as katakana words use should be limited, but in Friendly Japanese we aim to
 replace Sino-Japanese vocabulary to Katakana words to the fullest extent possible.
 
-We collected sentences from a variety of sources, such as SNOW T15, T23 Corpus, News crawling, Wikiooks crawling, Tatoeba sentences and Google reviews.
+We collected sentences from a variety of sources, such as SNOW T15, T23 Corpus, News crawling, WikiBooks crawling, Tatoeba sentences and Google reviews.
 
 # Corpus Details
 
