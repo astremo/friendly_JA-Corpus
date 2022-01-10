@@ -7,7 +7,7 @@ friendly_JAコーパスは、「やさしい日本語」とは異なる解釈の
 
 friendly_JAコーパスの構築にはSNOW T15、T23コーパス、ニュースクローリング、WikiBooksクローリング、Tatoeba文章、Google口コミなど、様々なソースから文章を収集しました。
 
-# Corpus Details
+# コーパスの詳細
 
 | コーパス | friendly_JA|
 |---|---|
