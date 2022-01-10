@@ -5,6 +5,8 @@ The friendly_JA Corpus is based on the Friendly Japanese concept which is a diff
 In fact, in Easy Japanese foreign words such as katakana words use should be limited, but in Friendly Japanese we aim to
 replace Sino-Japanese vocabulary to Katakana words to the fullest extent possible.
 
+
+
 # Corpus Details
 
 | Corpus | friendly_JA|
@@ -17,6 +19,20 @@ replace Sino-Japanese vocabulary to Katakana words to the fullest extent possibl
 | Minimum number of characters in target sentences  | 4  |
 | Maximum number of characters in target sentences  | 97  |
 | Size  | 6.6MB  |
+
+
+
+# Sample
+
+| input | target|
+|---|---|
+| 俺はコロナだと叫び列車を止めた　20歳、逮捕後に陽性判明  |  俺はコロナだと叫び電車を止めた　20歳、アレスト後にポジティブ判明 |
+|「カルロスゴーン　最後の便」（U―NEXTで配信中）をめぐる取材で自分は無罪だと改めて訴えた。|	「カルロスゴーン　最後のフライト」（U―NEXTでストリーミング中）をめぐるインタビューで自分はイノセントだともう一度言った。|
+|オミクロン株には追加接種必要か＝米研究|オミクロンバリアントにはブースターワクチネーション必要か＝アメリカのリサーチ|
+|ワクチン接種証明アプリ　今日から運用開始|ワクチンのワクチンサーティフィケートアプリケーション　今日からスタート|
+|ジョジョ ストーンオーシャンＮｅｔｆｌｉｘで配信中|ジョジョ ストーンオーシャンNetflixでストリーミング中|
+|テニスの彭帥選手、性的被害　懸念は消えず|テニスの彭帥プレーヤー、セクシュアルハラスメント　心配は消えず|
+
 
 
 # License
