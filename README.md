@@ -1,7 +1,7 @@
 # friendly_JA-Corpus
 friendly_JA is a parallel Japanese-to-Japanese corpus aimed at making Japanese easier/more accessible to occidental people by using the Latin/English derived katakana lexicon instead of the standard Sino-Japanese lexicon
 
-The friendly_JA Corpus is based on the Friendly Japanese concept which is a different interpretation of the Easy Japanese concept.
+The friendly_JA Corpus is based on the Friendly Japanese concept(フレンドリー日本語ORフレンドリ日本語) which is a different interpretation of the Easy Japanese concept.
 In fact, in Easy Japanese foreign words such as katakana words use should be limited, but in Friendly Japanese we aim to
 replace Sino-Japanese vocabulary to Katakana words to the fullest extent possible.
 
