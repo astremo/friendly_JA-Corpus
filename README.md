@@ -3,7 +3,7 @@ friendly_JA is a parallel Japanese-to-Japanese corpus aimed at making Japanese e
 
 The friendly_JA Corpus is based on the Friendly Japanese concept(フレンドリー日本語ORフレンドリ日本語) which is a different interpretation of the Easy Japanese concept.
 In fact, in Easy Japanese foreign words such as katakana words use should be limited, but in Friendly Japanese we aim to
-replace Sino-Japanese vocabulary to Katakana words to the fullest extent possible.
+replace Sino-Japanese vocabulary with Katakana words to the fullest extent possible.
 
 We collected sentences from a variety of sources, such as SNOW T15, T23 Corpus, News crawling, WikiBooks crawling, Tatoeba sentences and Google reviews.
 
