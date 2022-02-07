@@ -7,21 +7,6 @@ replace Sino-Japanese vocabulary to Katakana words to the fullest extent possibl
 
 We collected sentences from a variety of sources, such as SNOW T15, T23 Corpus, News crawling, WikiBooks crawling, Tatoeba sentences and Google reviews.
 
-# Corpus Details
-
-| Corpus | friendly_JA|
-|---|---|
-| Version  | 1-4  |
-| Extension  | .tsv  |
-| Number of sentences  | 52694  |
-| Minimum number of characters in input sentences  | 3  |
-| Maximum number of characters in input sentences  | 81  |
-| Minimum number of characters in target sentences  | 4  |
-| Maximum number of characters in target sentences  | 97  |
-| Size (on disk) | 6.6MB  |
-
-
-
 # Sample
 
 | input | target|
@@ -33,7 +18,8 @@ We collected sentences from a variety of sources, such as SNOW T15, T23 Corpus, 
 |ジョジョ ストーンオーシャンＮｅｔｆｌｉｘで配信中|ジョジョ ストーンオーシャンNetflixでストリーミング中|
 |テニスの彭帥選手、性的被害　懸念は消えず|テニスの彭帥プレーヤー、セクシュアルハラスメント　心配は消えず|
 
-
+# Download
+https://huggingface.co/datasets/astremo/friendly_JA_corpus
 
 # License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
